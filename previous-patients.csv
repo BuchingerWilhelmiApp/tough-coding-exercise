@@ -1,0 +1,4 @@
+patient_id, firstName, lastName, blood Pressure, arrivalDate, departure Date
+1, Max, Mustermän, 1002, 10.12.2011, 12.13.2011
+b, Peter, Pßan\eee823, 012, 10/12/2011, 14/12/2011
+c72, Marie, Pan, "123", 2011/12/11, 2012/01/12
