@@ -4,7 +4,7 @@ This exercise does not have to be completed perfectly, it is just supposed to sh
 
 # tasks
 
-A Kubernetes deployment should be created, which stores patient data in a relational database, and offers a simple API which can retrieve patient blood pressure given the patient id. Another simple webpage should be offered in this Kubernetes Deployment which collects patient data in a form, and writes the results into the relational database to be retrieved by the simple API. 
+A Kubernetes deployment (.yaml file or helm chart) should be created, which stores patient data in a relational database, and offers a simple API which can retrieve patient blood pressure given the patient id. Another simple webpage should be offered in this Kubernetes Deployment which collects patient data in a form, and writes the results into the relational database to be retrieved by the simple API. 
 
 Previous patient data should be included, which you are given as the .csv file in this root folder.
 
